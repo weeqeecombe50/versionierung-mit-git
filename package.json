@@ -1,0 +1,14 @@
+{
+  "name": "versionierung-mit-git",
+  "version": "1.0.0",
+  "description": "Ein einfaches Tool zur Verwaltung von Versionshinweisen in Git-Repositories.",
+  "main": "src/index.js",
+  "scripts": {
+    "add": "node src/add.js",
+    "list": "node src/list.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Ihr Name",
+  "license": "MIT"
+}
