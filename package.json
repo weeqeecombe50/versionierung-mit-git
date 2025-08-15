@@ -1,7 +1,7 @@
 {
   "name": "versionierung-mit-git",
   "version": "1.0.0",
-  "description": "Ein einfaches Tool zur Verwaltung von Versionshinweisen in Git-Repositories.",
+  "description": "A simple tool for managing version notes in Git repositories.",
   "main": "src/index.js",
   "scripts": {
     "add": "node src/add.js",
