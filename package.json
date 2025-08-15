@@ -10,5 +10,6 @@
   "dependencies": {},
   "devDependencies": {},
   "author": "Ihr Name",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/IhrUsername/versionierung-mit-git"
 }
