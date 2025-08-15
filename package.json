@@ -9,7 +9,7 @@
   },
   "dependencies": {},
   "devDependencies": {},
-  "author": "Your Name <youremail@example.com>",
+  "author": "Your Name <example@domain.com>",
   "license": "MIT",
   "homepage": "https://github.com/YourUsername/versionierung-mit-git",
   "keywords": ["git", "versioning", "management"]
